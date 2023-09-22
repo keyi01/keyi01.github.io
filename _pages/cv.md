@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in CS, SCUT, 2023
-* M.S. in CS, SCUT, 2026 (expected)
+* B.S. in CS, South China University of Technology, 2019-2023
+* M.S. in CS, South China University of Technology, 2023-2026 (expected)
 
 Work experience
 ======
@@ -36,7 +36,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -46,8 +46,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
