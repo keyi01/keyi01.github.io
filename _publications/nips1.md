@@ -6,14 +6,14 @@ excerpt: 'TL;DR: This paper is about how to spatial model EEG data with pre-trai
 date: 2023-09-23
 venue: 'NeurIPS'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Ke Yi, Yansen Wang, Ren Kan, Dongshen Li'
+citation: 'Ke Yi, Yansen Wang, Ren Kan, Dongshen Li. NeurIPS 2023 (poster)'
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
  -->
-Publised in NeurIPS 2023 (poster).
+<!-- Publised in NeurIPS 2023 (poster).
 
-Recommended citation: Ke Yi, Yansen Wang, Ren Kan, Dongshen Li
+Recommended citation: Ke Yi, Yansen Wang, Ren Kan, Dongshen Li -->
 
 ## Abstract
 

@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Ke Yi"
-excerpt: "About me"
+title: "About me"
+# excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,4 +25,3 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  Ke Yi, Yansen Wang, Ren Kan, Dongshen Li. NeurIPS 2023
