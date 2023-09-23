@@ -9,8 +9,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/    
     
-  - title: "Portfolio"
-    url: https://keyi01.github.io/portfolio/
+  # - title: "Portfolio"
+  #   url: https://keyi01.github.io/portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
