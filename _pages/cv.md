@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Summer 2022: Research Assistant
+* Summer 2022: Engineering intern
   * ByteDance
   * Duties included: Support data flow in Recommender System
 

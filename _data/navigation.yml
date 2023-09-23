@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://coco58323.github.io/publications/
+    url: https://keyi01.github.io/publications/
 
   # - title: "Talks"
   #   url: /talks/    
@@ -10,13 +10,13 @@ main:
   #   url: /teaching/    
     
   - title: "Portfolio"
-    url: https://coco58323.github.io/portfolio/
+    url: https://keyi01.github.io/portfolio/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "CV"
-    url: https://coco58323.github.io/cv/
+    url: https://keyi01.github.io/cv/
     
   # - title: "Guide"
   #   url: /markdown/
