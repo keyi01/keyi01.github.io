@@ -2,13 +2,22 @@
 title: "Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling"
 collection: publications
 permalink: /publication/nips1
-excerpt: 'This paper is about how to spatial model EEG data with pre-training schema. The new pre-training schema is topology-agnostic, facilitating usage of EEG data in different tasks.'
-date: 2023-09-23
+excerpt: 'TL;DR: This paper is about how to spatial model EEG data with pre-training schema. The new pre-training schema is topology-agnostic, facilitating usage of EEG data in different tasks.'
+# date: 2023-09-23
 # venue: 'Journal 1'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'NeurIPS 2023'
+citation: 'Ke Yi, Yansen Wang, Ren Kan, Dongshen Li. NeurIPS 2023'
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+ -->
+Publised in NeurIPS 2023 (poster).
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
+Recommended citation: Ke Yi, Yansen Wang, Ren Kan, Dongshen Li
+
+## Abstract
+
+Large-scale pre-training has shown great potential to enhance the models on the downstream task in vision and language. Developing similar techniques for scalp electroencephalogram (EEG) is suitable since unlabelled data is plentiful. Meanwhile, various sampling channels selection and inherent structural and spatial information bring challenges and avenues to improve existing pre-training strategies further. In order to break the boundaries between different EEG resources and facilitate cross-dataset EEG pre-training, we propose to map all kinds of channel selections to a unified topology. We further introduce MMM, a pre-training framework with Multi-dimensional position encoding,Multi-level channel hierarchy, Multi-stage pre-training strategy built on the unified topology to obtain topology-agnostic representations. Experiments demonstrate that our approach yields impressive improvements over previous state-of-the-art techniques on emotional recognition benchmark datasets.
+
+## Key words
+Electroencephalogram, EEG Pre-training, EEG-based emotion recognition

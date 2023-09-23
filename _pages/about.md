@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Ke Yi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ I am a master student in the School of Computer Science and Engineering at South
 
 Work experience
 ======
-* Summer 2022: Research Assistant
+* Summer 2022: Engineering intern
   * ByteDance
   * Duties included: Support data flow in Recommender System
 
@@ -25,3 +25,4 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  Ke Yi, Yansen Wang, Ren Kan, Dongshen Li. NeurIPS 2023
