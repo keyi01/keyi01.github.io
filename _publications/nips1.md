@@ -3,7 +3,7 @@ title: "Learning Topology-Agnostic EEG Representations with Geometry-Aware Model
 collection: publications
 permalink: /publication/nips1
 excerpt: 'TL;DR: This paper is about how to spatial model EEG data with pre-training schema. The new pre-training schema is topology-agnostic, facilitating usage of EEG data in different tasks.'
-date: 2023
+date: 2023-09-23
 venue: 'NeurIPS'
 # paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Ke Yi, Yansen Wang, Ren Kan, Dongshen Li'
